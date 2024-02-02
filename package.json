@@ -1,0 +1,27 @@
+{
+  "name": "ai-text-generator",
+  "version": "1.0.0",
+  "description": "A simple AI text generator package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/buddha2042/ai-text-generator.git"
+  },
+  "keywords": [
+    "[\"ai\"",
+    "\"text",
+    "generation\"]"
+  ],
+  "author": "Buddha Kharel",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/buddha2042/ai-text-generator/issues"
+  },
+  "homepage": "https://github.com/buddha2042/ai-text-generator#readme",
+  "dependencies": {
+    "openai": "^4.26.0"
+  }
+}
