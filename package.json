@@ -1,5 +1,5 @@
 {
-  "name": "ai-text-generator",
+  "name": "ai-answer-generator",
   "version": "1.0.1",
   "description": "A simple AI text generator package",
   "main": "index.js",
