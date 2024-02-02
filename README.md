@@ -1,6 +1,6 @@
 # text-ai-generator
 
-[![npm version](https://img.shields.io/npm/v/text-ai-generator.svg)](https://www.npmjs.com/package/text-ai-generator)
+[![npm version](https://img.shields.io/npm/v/ai-answer-generator.svg)](https://www.npmjs.com/package/ai-answer-generator)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
 A simple AI text generator package that leverages OpenAI's GPT-3.5 for natural language text generation.
@@ -8,7 +8,7 @@ A simple AI text generator package that leverages OpenAI's GPT-3.5 for natural l
 ## Installation
 
 ```bash
-npm install ai-text-generator
+npm install ai-answer-generator
 
 Usage
 const { generateText } = require('text-ai-generator');
@@ -37,4 +37,4 @@ Please make sure to follow the code of conduct.
 
 
 
-Remember to include a `CODE_OF_CONDUCT.md` file if you have a code of conduct for contributors, and make sure your license file (`LICENSE`) includes the terms under which you're releasing your software. Additionally, replace the placeholder text with your actual information.
+Remember to include a `CODE_OF_CONDUCT.md` file if you have a code of conduct for contributors, and make sure your license file (`LICENSE`) includes the terms under which you're releasing your software. 
