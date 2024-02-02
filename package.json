@@ -1,6 +1,6 @@
 {
   "name": "ai-text-generator",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A simple AI text generator package",
   "main": "index.js",
   "scripts": {
